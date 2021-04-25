@@ -276,6 +276,7 @@ namespace POS
             this.button7.Size = new System.Drawing.Size(172, 63);
             this.button7.TabIndex = 18;
             this.button7.Text = "Ruaj";
+            this.button7.TextAlign = System.Drawing.ContentAlignment.TopRight;
             this.button7.UseVisualStyleBackColor = true;
             this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
